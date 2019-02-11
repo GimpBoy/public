@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "positionId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "positionId": 1
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "positionId":2
+    }
+  ],
+  "positions": [
+  {
+    "id": 1,
+    "name": "Manager"
+  },
+  {
+    "id": 2,
+    "name": "Owner"
+  },
+  {
+    "id": 3,
+    "name": "Supervisor"
+  }
+  ]
+}
